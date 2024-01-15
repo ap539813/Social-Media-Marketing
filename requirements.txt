@@ -1,1 +1,6 @@
 praw
+networkx
+plotly
+nbformat
+wordcloud
+gensim
